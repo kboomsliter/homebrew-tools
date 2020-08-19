@@ -1,2 +1,3 @@
-# practice
-a place to practice doing things with github.
+My tools provided via homebrew.  
+
+Nothing much to see, just playing with a private homebrew repo.
